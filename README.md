@@ -6,7 +6,7 @@
 
 ---
 
-Packr is a simple solution for bundling static assets inside of Go binaries. Most importantly it does it in a way that is friendly to developers while they are developing.
+Packr is a simple solution for bundling static assets inside of Go binaries. Most importantly it does it in a way that is friendly to developers while they are developing. Packr is suitable alternative to other Go asset bundling packages such as go-bindata and go.rice.
 
 ## Intro Video
 
